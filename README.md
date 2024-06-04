@@ -8,3 +8,5 @@
 
 1. 下载最新版本的 `.exe` 文件。
 2. 双击运行安装程序，按照提示完成安装。
+## 下载
+[点击这里下载 zwitmoniter4.0.exe](https://github.com/Ender3721/-/blob/main/zwitmoniter4.0.exe)
