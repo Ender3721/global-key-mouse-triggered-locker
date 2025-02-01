@@ -12,3 +12,5 @@
 [点击这里下载 zwitmoniter4.0.exe](https://github.com/Ender3721/global-key-mouse-triggered-locker/raw/main/zwitmoniter4.0.exe)
 ## 为什么没有源码？
 因为我不小心删掉了 只留下了这个运行文件...能派上点用处就很开心了，以后会养成更好的编程习惯T.T
+### 源代码在我清理文件的时候找到了
+[点击这里查看py源代码](https://github.com/Ender3721/global-key-mouse-triggered-locker/raw/main/zwitmoniter4.0.py)
